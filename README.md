@@ -13,7 +13,7 @@ container minimum/maximum memory size 128MiB/512MiB -> Change to 128MiB/5120MiB
 ## Before Create   
 ### Microbench
 Checking code that GPU context sharing between processes   
-Only same pid condition can share GPU context   
+Only same pid condition can share GPU context (thread-based sharing)   
    
 ### Container utilization script
 Check currently running container's CPU, memory utilization in real-time   
