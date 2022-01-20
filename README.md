@@ -15,5 +15,5 @@ container minimum/maximum memory size 128MiB/512MiB -> Change to 128MiB/5120MiB
 Checking code that GPU context sharing between processes   
 Only same pid condition can share GPU context (thread-based sharing)   
    
-### Container utilization script
+### Container utilization script (docker-util.sh)
 Check currently running container's CPU, memory utilization in real-time   
