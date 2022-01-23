@@ -1,6 +1,13 @@
 # EMDC-ACCIO
 EMDC OS GPU-support serverless computing with minimize I/O cost
    
+# To Do
+## GPU
+??
+## Memory
+How to segment memory usage?   
+How to do forced memory swap for specific data?   
+   
 # Daily record
 ## 22/01/09
 ### OpenWhisk Container memory extension   
